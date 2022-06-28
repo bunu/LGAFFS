@@ -1,0 +1,22 @@
+@threshold age young old 17
+@threshold famrel low high 2
+@threshold Walc low high 2
+@threshold Dalc low high 2
+
+@unordered school
+@unordered sex
+@unordered address
+@unordered famsize
+@unordered Pstatus
+@unordered Mjob
+@unordered Fjob
+@unordered reason
+@unordered guardian
+@unordered schoolsup
+@unordered famsup
+@unordered paid
+@unordered activities
+@unordered nursery
+@unordered higher
+@unordered internet
+@unordered romantic

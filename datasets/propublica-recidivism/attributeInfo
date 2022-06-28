@@ -1,0 +1,15 @@
+@binarysplit race non-white white African-American Asian Hispanic Native_American Other
+
+@unordered sex
+@unordered race
+@unordered c_charge_degree
+@unordered r_charge_degree
+@unordered violent_recid
+@unordered vr_charge_degree
+@unordered type_of_assessment
+@unordered v_type_of_assessment
+
+@ordinal v_score_text Low Medium High
+@ordinal age_cat Less_than_25 25-45 Greater_than_45
+
+

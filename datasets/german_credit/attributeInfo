@@ -1,0 +1,17 @@
+@threshold Age young old 25
+
+@unordered CreditHistory
+@unordered Purpose
+@unordered PersonalStatus
+@unordered Gender
+@unordered OtherDebtors
+@unordered Property
+@unordered InstallmentPlans
+@unordered Housing
+@unordered Job
+@unordered Telephone
+@unordered ForeignWorker
+
+@ordinal EmploymentLength A71 A72 A73 A74 A75
+@ordinal CheckingAccount A14 A11 A12 A13
+@ordinal SavingsAccount A65 A61 A62 A63 A64

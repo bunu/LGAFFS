@@ -1,0 +1,13 @@
+@threshold Age young old 25
+
+@binarysplit race non-white white Black Other Amer-Indian-Eskimo Asian-Pac-Islander
+
+@unordered workclass
+@unordered maritalStatus
+@unordered occupation
+@unordered relationship
+@unordered race
+@unordered sex
+@unordered NativeCountry
+
+@ordinal education Preschool 1st-4th 5th-6th 7th-8th 9th 10th 11th 12th HS-grad Some-college Assoc-voc Assoc-acdm Bachelors Masters Prof-school Doctorate
